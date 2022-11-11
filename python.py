@@ -5,3 +5,7 @@ print("Wow! that's pretty coooooooooooool")
 # git add and the file names
 # git commit -m "message" every time change in the file
 # git push   send the folder or files on the gihub server
+
+
+print("Changes from the server side")
+
